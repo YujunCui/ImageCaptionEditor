@@ -1,0 +1,15 @@
+[
+  {
+    "vision_path": "D:\\Data\\mllm_testdata\\test_imgs\\有肢体冲突\\71a046b26d52218a15be3fecc938f246.jpeg",
+    "frame_idxs": [
+      "D:\\Data\\mllm_testdata\\test_imgs\\有肢体冲突\\71a046b26d52218a15be3fecc938f246.jpeg"
+    ],
+    "box": [
+      0,
+      0,
+      1080,
+      1920
+    ],
+    "answer": "四人围成一圈，用竹竿互相推搡。"
+  }
+]

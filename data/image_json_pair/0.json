@@ -1,0 +1,15 @@
+[
+  {
+    "vision_path": "D:\\Data\\mllm_testdata\\test_imgs\\有肢体冲突\\0.jpg",
+    "frame_idxs": [
+      "D:\\Data\\mllm_testdata\\test_imgs\\有肢体冲突\\0.jpg"
+    ],
+    "box": [
+      0,
+      0,
+      640,
+      360
+    ],
+    "answer": "一对情侣在户外，互相嬉闹，背景有树木和蓝天。"
+  }
+]

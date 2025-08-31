@@ -1,0 +1,15 @@
+[
+  {
+    "vision_path": "D:\\Data\\mllm_testdata\\test_imgs\\有肢体冲突\\mp20295345_1435308887272_6.jpeg",
+    "frame_idxs": [
+      "D:\\Data\\mllm_testdata\\test_imgs\\有肢体冲突\\mp20295345_1435308887272_6.jpeg"
+    ],
+    "box": [
+      0,
+      0,
+      406,
+      600
+    ],
+    "answer": "两名男子在街上对峙，其中一人持枪威胁另一人。"
+  }
+]

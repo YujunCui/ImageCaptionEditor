@@ -1,0 +1,15 @@
+[
+  {
+    "vision_path": "D:\\Data\\mllm_testdata\\test_imgs\\有肢体冲突\\FrNx4E85Q8RjPzPKy0MYlSx63Zyx.jpg",
+    "frame_idxs": [
+      "D:\\Data\\mllm_testdata\\test_imgs\\有肢体冲突\\FrNx4E85Q8RjPzPKy0MYlSx63Zyx.jpg"
+    ],
+    "box": [
+      0,
+      0,
+      640,
+      725
+    ],
+    "answer": "两名女子在广场上打斗，一名女子倒地，周围围观者捂鼻。"
+  }
+]

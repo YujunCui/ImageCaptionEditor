@@ -1,0 +1,15 @@
+[
+  {
+    "vision_path": "D:\\Data\\mllm_testdata\\test_imgs\\有肢体冲突\\e47d109674b5a92cb2f3ea313e0d892f.jpg",
+    "frame_idxs": [
+      "D:\\Data\\mllm_testdata\\test_imgs\\有肢体冲突\\e47d109674b5a92cb2f3ea313e0d892f.jpg"
+    ],
+    "box": [
+      0,
+      0,
+      1920,
+      1280
+    ],
+    "answer": "一群人在户外练习拳击，围观的人群中有人戴着面具。"
+  }
+]
